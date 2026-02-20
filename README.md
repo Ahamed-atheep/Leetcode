@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ahamed-atheep/Leetcode/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/Ahamed-atheep/Leetcode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Ahamed-atheep/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Ahamed-atheep/Leetcode/tree/master/0231-power-of-two) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Ahamed-atheep/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Recursion
@@ -21,4 +22,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Ahamed-atheep/Leetcode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Ahamed-atheep/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
