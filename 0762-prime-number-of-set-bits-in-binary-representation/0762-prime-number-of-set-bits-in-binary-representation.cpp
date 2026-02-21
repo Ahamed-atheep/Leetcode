@@ -1,18 +1,8 @@
 class Solution {
 public:
-    bool isPrime(int n) {
-    if (n <= 1)
-        return false;
-
-    for (int i = 2; i < n; i++)
-        {
-            if (n % i == 0) return false;
-        }
-
-    return true;
-}
     int countPrimeSetBits(int left, int right) {
         int anscnt=0;
+        unordered_set<int>st={2,3,5,7,11,13,17,19,23,29,31};
         for(int i=left;i<=right;i++)
         {
             int cnt=0;
@@ -23,7 +13,7 @@ public:
                 n>>=1;
             }
             if(n==1) cnt++;
-            if(isPrime(cnt)) anscnt++;
+            if(st.find(cnt)!=st.end()) anscnt++;
         }
         return anscnt;
     }
