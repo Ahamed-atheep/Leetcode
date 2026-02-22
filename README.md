@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Ahamed-atheep/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Ahamed-atheep/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Ahamed-atheep/Leetcode/tree/master/0338-counting-bits) |
+| [0461-hamming-distance](https://github.com/Ahamed-atheep/Leetcode/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Ahamed-atheep/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ahamed-atheep/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Ahamed-atheep/Leetcode/tree/master/0868-binary-gap) |
