@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Ahamed-atheep/Leetcode/tree/master/0338-counting-bits) |
+| [1668-maximum-repeating-substring](https://github.com/Ahamed-atheep/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Array
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ahamed-atheep/Leetcode/tree/master/0020-valid-parentheses) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ahamed-atheep/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1668-maximum-repeating-substring](https://github.com/Ahamed-atheep/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Stack
 |  |
 | ------- |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Ahamed-atheep/Leetcode/tree/master/0994-rotting-oranges) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/Ahamed-atheep/Leetcode/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
