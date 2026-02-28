@@ -1,14 +1,5 @@
 class Solution {
 public:
-    string repeat(char s,int t)
-    {
-        string result;
-        for(int i=0;i<t;i++)
-        {
-            result+=s;
-        }
-        return result;
-    }
     string frequencySort(string s) {
         unordered_map<char,int>mp;
         for(char i:s)
@@ -28,7 +19,7 @@ public:
         string ans;
         for(auto it:store)
         {
-            ans+=repeat(it.first,it.second);
+            ans+=string(it.second,it.first);
         }
         return ans;
     }
