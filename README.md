@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Ahamed-atheep/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [0994-rotting-oranges](https://github.com/Ahamed-atheep/Leetcode/tree/master/0994-rotting-oranges) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ahamed-atheep/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ahamed-atheep/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Ahamed-atheep/Leetcode/tree/master/0994-rotting-oranges) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ahamed-atheep/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## String Matching
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ahamed-atheep/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ahamed-atheep/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Ahamed-atheep/Leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## Linked List
