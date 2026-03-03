@@ -1,27 +1,16 @@
 class Solution {
 public:
-    string invert(string s)
-    {
-        for(int i=0;i<s.size();i++)
-        {
-            if(s[i]=='1')
-            {
-                s[i]='0';
-            }
-            else{
-                s[i]='1';
-            }
-        }
-        return s;
-    }
     char findKthBit(int n, int k) {
-        string s="0";
-        for(int i=1;i<n;i++)
-        {
-            string t=invert(s);
-            reverse(t.begin(),t.end());
-            s=s+"1"+t;
+        if(n==1) return '0';
+        int mid=1<<(n-1);
+        if(mid==k)
+            return '1';
+        else if(k<mid)
+            return findKthBit(n-1,k);
+        else{
+            char bit=findKthBit(n-1,mid*2-k);
+        return bit=='1'?'0':'1';
         }
-        return s[k-1];
+        
     }
 };
