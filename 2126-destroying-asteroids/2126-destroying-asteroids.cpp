@@ -12,5 +12,6 @@ public:
             sum+=asteroids[i];
         }
         return 1;
+        
     }
 };
