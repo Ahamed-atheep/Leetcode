@@ -7,17 +7,13 @@ public:
         int ones=0;
         for(int i=0;i<n;i++)
         {
-            if(mat[i][col]) {
-            ones++;
-            if(ones>2) return 0;
-            }
+            if(mat[i][col] && i!=row) return 0;
         }
         for(int i=0;i<m;i++)
         {
-            if(mat[row][i]) 
+            if(mat[row][i] && i!=col) 
             {
-                ones++;
-            if(ones>2) return 0;
+                return 0;
             }
         }
         return 1;
