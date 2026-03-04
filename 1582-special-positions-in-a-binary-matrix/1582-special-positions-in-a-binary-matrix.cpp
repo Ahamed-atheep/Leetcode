@@ -7,14 +7,20 @@ public:
         int ones=0;
         for(int i=0;i<n;i++)
         {
-            if(mat[i][col]) ones++;
+            if(mat[i][col]) {
+            ones++;
+            if(ones>2) return 0;
+            }
         }
         for(int i=0;i<m;i++)
         {
-            if(mat[row][i]) ones++;
+            if(mat[row][i]) 
+            {
+                ones++;
+            if(ones>2) return 0;
+            }
         }
-        if(ones<=2) return 1;
-        return 0;
+        return 1;
     }
     int numSpecial(vector<vector<int>>& mat) {
         int n=mat.size();
