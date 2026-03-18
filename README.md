@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ahamed-atheep/Leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Ahamed-atheep/Leetcode/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/Ahamed-atheep/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Ahamed-atheep/Leetcode/tree/master/0231-power-of-two) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ahamed-atheep/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ahamed-atheep/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ahamed-atheep/Leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Ahamed-atheep/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Ahamed-atheep/Leetcode/tree/master/0231-power-of-two) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ahamed-atheep/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Divide and Conquer
