@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/Ahamed-atheep/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Ahamed-atheep/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ahamed-atheep/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ahamed-atheep/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ahamed-atheep/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/0525-contiguous-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ahamed-atheep/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ahamed-atheep/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ahamed-atheep/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Rolling Hash
 |  |
 | ------- |
