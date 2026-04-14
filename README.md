@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ahamed-atheep/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ahamed-atheep/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/Ahamed-atheep/Leetcode/tree/master/0338-counting-bits) |
+| [0746-min-cost-climbing-stairs](https://github.com/Ahamed-atheep/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1668-maximum-repeating-substring](https://github.com/Ahamed-atheep/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ahamed-atheep/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Array
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Ahamed-atheep/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Ahamed-atheep/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/0525-contiguous-array) |
+| [0746-min-cost-climbing-stairs](https://github.com/Ahamed-atheep/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0946-validate-stack-sequences](https://github.com/Ahamed-atheep/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [0994-rotting-oranges](https://github.com/Ahamed-atheep/Leetcode/tree/master/0994-rotting-oranges) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ahamed-atheep/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
