@@ -116,11 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ahamed-atheep/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ahamed-atheep/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ahamed-atheep/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3174-clear-digits](https://github.com/Ahamed-atheep/Leetcode/tree/master/3174-clear-digits) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ahamed-atheep/Leetcode/tree/master/0020-valid-parentheses) |
 | [0946-validate-stack-sequences](https://github.com/Ahamed-atheep/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [3174-clear-digits](https://github.com/Ahamed-atheep/Leetcode/tree/master/3174-clear-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ahamed-atheep/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Ahamed-atheep/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ahamed-atheep/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3174-clear-digits](https://github.com/Ahamed-atheep/Leetcode/tree/master/3174-clear-digits) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ahamed-atheep/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ahamed-atheep/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
