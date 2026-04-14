@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ahamed-atheep/Leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Ahamed-atheep/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Ahamed-atheep/Leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Ahamed-atheep/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Ahamed-atheep/Leetcode/tree/master/0231-power-of-two) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ahamed-atheep/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ahamed-atheep/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ahamed-atheep/Leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Ahamed-atheep/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ahamed-atheep/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ahamed-atheep/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ahamed-atheep/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ahamed-atheep/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
