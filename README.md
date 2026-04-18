@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Ahamed-atheep/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ahamed-atheep/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Ahamed-atheep/Leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Ahamed-atheep/Leetcode/tree/master/0120-triangle) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ahamed-atheep/Leetcode/tree/master/0001-two-sum) |
+| [0045-jump-game-ii](https://github.com/Ahamed-atheep/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Ahamed-atheep/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Ahamed-atheep/Leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Ahamed-atheep/Leetcode/tree/master/0078-subsets) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Ahamed-atheep/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ahamed-atheep/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ahamed-atheep/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ahamed-atheep/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
