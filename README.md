@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Ahamed-atheep/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Ahamed-atheep/Leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Ahamed-atheep/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ahamed-atheep/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ahamed-atheep/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Ahamed-atheep/Leetcode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/Ahamed-atheep/Leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Ahamed-atheep/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ahamed-atheep/Leetcode/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Ahamed-atheep/Leetcode/tree/master/0120-triangle) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Ahamed-atheep/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ahamed-atheep/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ahamed-atheep/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ahamed-atheep/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
