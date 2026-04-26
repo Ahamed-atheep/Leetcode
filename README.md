@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ahamed-atheep/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ahamed-atheep/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2126-destroying-asteroids](https://github.com/Ahamed-atheep/Leetcode/tree/master/2126-destroying-asteroids) |
+| [2270-number-of-ways-to-split-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Ahamed-atheep/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ahamed-atheep/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ahamed-atheep/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/Ahamed-atheep/Leetcode/tree/master/0724-find-pivot-index) |
+| [2270-number-of-ways-to-split-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ahamed-atheep/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ahamed-atheep/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Merge Sort
