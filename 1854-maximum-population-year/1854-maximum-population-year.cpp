@@ -1,35 +1,22 @@
 class Solution {
 public:
     int maximumPopulation(vector<vector<int>>& logs) {
-        int n=logs.size();
-        vector<int>birth,death;
-        int year=0;
-        int population=0;
-        int maxi=0;
+        vector<int>array(101);
         for(auto i:logs)
         {
-            birth.push_back(i[0]);
-            death.push_back(i[1]);
+            array[i[0]%1950]+=1;
+            array[i[1]%1950]-=1;
         }
-        int left=0,right=0;
-        sort(birth.begin(),birth.end());
-        sort(death.begin(),death.end());
-        while(left <n)
+        int maxi=0;
+        int sum=0;
+        int year;
+        for(int i=0;i<101;i++)
         {
-            if(birth[left]<death[right])
+            sum+=array[i];
+            if(maxi<sum)
             {
-                population++;
-                if(maxi<population)
-                {
-                    maxi=population;
-                    year=birth[left];
-                }
-                left++;
-            }
-            else
-            {
-                population--;
-                right++;
+                maxi=sum;
+                year=1950+i;
             }
         }
         return year;
