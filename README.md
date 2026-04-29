@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Ahamed-atheep/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Ahamed-atheep/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ahamed-atheep/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Ahamed-atheep/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ahamed-atheep/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3174-clear-digits](https://github.com/Ahamed-atheep/Leetcode/tree/master/3174-clear-digits) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Ahamed-atheep/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ahamed-atheep/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ahamed-atheep/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Ahamed-atheep/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3174-clear-digits](https://github.com/Ahamed-atheep/Leetcode/tree/master/3174-clear-digits) |
 ## Hash Table
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ahamed-atheep/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ahamed-atheep/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ahamed-atheep/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Ahamed-atheep/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Ahamed-atheep/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ahamed-atheep/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3174-clear-digits](https://github.com/Ahamed-atheep/Leetcode/tree/master/3174-clear-digits) |
