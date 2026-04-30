@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Ahamed-atheep/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Ahamed-atheep/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/0525-contiguous-array) |
+| [0697-degree-of-an-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/Ahamed-atheep/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Ahamed-atheep/Leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ahamed-atheep/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ahamed-atheep/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Ahamed-atheep/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/0525-contiguous-array) |
+| [0697-degree-of-an-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/0697-degree-of-an-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ahamed-atheep/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ahamed-atheep/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ahamed-atheep/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
