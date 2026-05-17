@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ahamed-atheep/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ahamed-atheep/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ahamed-atheep/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Ahamed-atheep/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ahamed-atheep/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Ahamed-atheep/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ahamed-atheep/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/Ahamed-atheep/Leetcode/tree/master/1854-maximum-population-year) |
 | [2270-number-of-ways-to-split-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ahamed-atheep/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Ahamed-atheep/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ahamed-atheep/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Merge Sort
 |  |
