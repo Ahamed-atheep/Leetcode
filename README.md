@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Ahamed-atheep/Leetcode/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ahamed-atheep/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Ahamed-atheep/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0303-range-sum-query-immutable](https://github.com/Ahamed-atheep/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Ahamed-atheep/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/0525-contiguous-array) |
 | [0697-degree-of-an-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/0697-degree-of-an-array) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ahamed-atheep/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Ahamed-atheep/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/Ahamed-atheep/Leetcode/tree/master/0724-find-pivot-index) |
 | [1854-maximum-population-year](https://github.com/Ahamed-atheep/Leetcode/tree/master/1854-maximum-population-year) |
@@ -323,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Ahamed-atheep/Leetcode/tree/master/0739-daily-temperatures) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Ahamed-atheep/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
