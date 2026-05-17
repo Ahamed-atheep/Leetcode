@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ahamed-atheep/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Ahamed-atheep/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/Ahamed-atheep/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Ahamed-atheep/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Ahamed-atheep/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/0525-contiguous-array) |
 | [0697-degree-of-an-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/0697-degree-of-an-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Ahamed-atheep/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0994-rotting-oranges](https://github.com/Ahamed-atheep/Leetcode/tree/master/0994-rotting-oranges) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ahamed-atheep/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ahamed-atheep/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ahamed-atheep/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Ahamed-atheep/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Ahamed-atheep/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/Ahamed-atheep/Leetcode/tree/master/0724-find-pivot-index) |
 | [1854-maximum-population-year](https://github.com/Ahamed-atheep/Leetcode/tree/master/1854-maximum-population-year) |
@@ -331,4 +334,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Ahamed-atheep/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Ahamed-atheep/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
