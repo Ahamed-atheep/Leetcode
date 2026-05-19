@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Ahamed-atheep/Leetcode/tree/master/0819-most-common-word) |
 | [0946-validate-stack-sequences](https://github.com/Ahamed-atheep/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [0994-rotting-oranges](https://github.com/Ahamed-atheep/Leetcode/tree/master/0994-rotting-oranges) |
+| [1002-find-common-characters](https://github.com/Ahamed-atheep/Leetcode/tree/master/1002-find-common-characters) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ahamed-atheep/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ahamed-atheep/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ahamed-atheep/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ahamed-atheep/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Ahamed-atheep/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0819-most-common-word](https://github.com/Ahamed-atheep/Leetcode/tree/master/0819-most-common-word) |
+| [1002-find-common-characters](https://github.com/Ahamed-atheep/Leetcode/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ahamed-atheep/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ahamed-atheep/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ahamed-atheep/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/0525-contiguous-array) |
 | [0697-degree-of-an-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0819-most-common-word](https://github.com/Ahamed-atheep/Leetcode/tree/master/0819-most-common-word) |
+| [1002-find-common-characters](https://github.com/Ahamed-atheep/Leetcode/tree/master/1002-find-common-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ahamed-atheep/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ahamed-atheep/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ahamed-atheep/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
