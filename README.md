@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ahamed-atheep/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Ahamed-atheep/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Ahamed-atheep/Leetcode/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/Ahamed-atheep/Leetcode/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Ahamed-atheep/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0819-most-common-word](https://github.com/Ahamed-atheep/Leetcode/tree/master/0819-most-common-word) |
 | [1002-find-common-characters](https://github.com/Ahamed-atheep/Leetcode/tree/master/1002-find-common-characters) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ahamed-atheep/Leetcode/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/Ahamed-atheep/Leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Ahamed-atheep/Leetcode/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/Ahamed-atheep/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ahamed-atheep/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Ahamed-atheep/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ahamed-atheep/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ahamed-atheep/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/Ahamed-atheep/Leetcode/tree/master/0402-remove-k-digits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ahamed-atheep/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ahamed-atheep/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2126-destroying-asteroids](https://github.com/Ahamed-atheep/Leetcode/tree/master/2126-destroying-asteroids) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Ahamed-atheep/Leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Ahamed-atheep/Leetcode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
