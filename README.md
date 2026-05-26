@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Ahamed-atheep/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ahamed-atheep/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Ahamed-atheep/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3174-clear-digits](https://github.com/Ahamed-atheep/Leetcode/tree/master/3174-clear-digits) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ahamed-atheep/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ahamed-atheep/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Ahamed-atheep/Leetcode/tree/master/1002-find-common-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ahamed-atheep/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ahamed-atheep/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Ahamed-atheep/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ahamed-atheep/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ahamed-atheep/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ahamed-atheep/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
