@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Ahamed-atheep/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ahamed-atheep/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3028-ant-on-the-boundary](https://github.com/Ahamed-atheep/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ahamed-atheep/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ahamed-atheep/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Ahamed-atheep/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Ahamed-atheep/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Ahamed-atheep/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ahamed-atheep/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3028-ant-on-the-boundary](https://github.com/Ahamed-atheep/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3174-clear-digits](https://github.com/Ahamed-atheep/Leetcode/tree/master/3174-clear-digits) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ahamed-atheep/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ahamed-atheep/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/Ahamed-atheep/Leetcode/tree/master/1854-maximum-population-year) |
 | [1991-find-the-middle-index-in-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
+| [3028-ant-on-the-boundary](https://github.com/Ahamed-atheep/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ahamed-atheep/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Ahamed-atheep/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ahamed-atheep/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
