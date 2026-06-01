@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Ahamed-atheep/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Ahamed-atheep/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Ahamed-atheep/Leetcode/tree/master/0231-power-of-two) |
+| [0523-continuous-subarray-sum](https://github.com/Ahamed-atheep/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ahamed-atheep/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ahamed-atheep/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Ahamed-atheep/Leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Ahamed-atheep/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ahamed-atheep/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Ahamed-atheep/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0523-continuous-subarray-sum](https://github.com/Ahamed-atheep/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/0525-contiguous-array) |
 | [0697-degree-of-an-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/Ahamed-atheep/Leetcode/tree/master/0724-find-pivot-index) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ahamed-atheep/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ahamed-atheep/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Ahamed-atheep/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/Ahamed-atheep/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/0525-contiguous-array) |
 | [0697-degree-of-an-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0819-most-common-word](https://github.com/Ahamed-atheep/Leetcode/tree/master/0819-most-common-word) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Ahamed-atheep/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Ahamed-atheep/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ahamed-atheep/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/Ahamed-atheep/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/Ahamed-atheep/Leetcode/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Ahamed-atheep/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
