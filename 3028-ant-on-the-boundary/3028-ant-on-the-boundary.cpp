@@ -8,6 +8,6 @@ public:
             total+=i;
             if(total==0) count++;
         }
-        return count!=0?count:0;
+        return count;
     }
 };
