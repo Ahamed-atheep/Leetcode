@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ahamed-atheep/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ahamed-atheep/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1854-maximum-population-year](https://github.com/Ahamed-atheep/Leetcode/tree/master/1854-maximum-population-year) |
+| [1991-find-the-middle-index-in-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2126-destroying-asteroids](https://github.com/Ahamed-atheep/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ahamed-atheep/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2270-number-of-ways-to-split-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Ahamed-atheep/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Ahamed-atheep/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1854-maximum-population-year](https://github.com/Ahamed-atheep/Leetcode/tree/master/1854-maximum-population-year) |
+| [1991-find-the-middle-index-in-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/Ahamed-atheep/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ahamed-atheep/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Ahamed-atheep/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
