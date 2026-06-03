@@ -3,21 +3,17 @@ public:
     int waysToSplitArray(vector<int>& nums) {
         int count=0;
         int n=nums.size();
-        vector<long long >prefix(n),suffix(n);
-        long long sum=0;
+        long long prefix=0,suffix=0;
         for(int i=0;i<n;i++)
         {
-            sum+=nums[i];
-            prefix[i]+=sum;
+            prefix+=nums[i];
         }
-        for(int i=0;i<n;i++)
+        for(int i=n-1;i>=1;i--)
         {
-            suffix[i]+=sum;
-            sum-=nums[i];
-        }
-        for(int i=1;i<n;i++)
-        {
-            if(prefix[i-1]>=suffix[i])
+            suffix+=nums[i];
+            prefix-=nums[i];
+            cout<<prefix<<" "<<suffix<<" ";
+            if(prefix>=suffix)
             {
                 count++;
             }
