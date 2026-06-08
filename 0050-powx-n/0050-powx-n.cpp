@@ -13,7 +13,7 @@ public:
         if(n<0)
         {
             x=1/x;
-            n=-n;
+            n=-1LL*n;
         }
         return calcPow(x,n);
     }
