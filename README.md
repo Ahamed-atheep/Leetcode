@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ahamed-atheep/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ahamed-atheep/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Ahamed-atheep/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/Ahamed-atheep/Leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Ahamed-atheep/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ahamed-atheep/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3028-ant-on-the-boundary](https://github.com/Ahamed-atheep/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ahamed-atheep/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/Ahamed-atheep/Leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ahamed-atheep/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3355-zero-array-transformation-i](https://github.com/Ahamed-atheep/Leetcode/tree/master/3355-zero-array-transformation-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Ahamed-atheep/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ahamed-atheep/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ahamed-atheep/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ahamed-atheep/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/Ahamed-atheep/Leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 ## Queue
 |  |
 | ------- |
